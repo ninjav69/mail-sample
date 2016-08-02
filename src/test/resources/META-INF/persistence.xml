@@ -4,6 +4,19 @@
 
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 
+        <!-- Test 
+        <properties>
+            <property name="javax.persistence.jdbc.driver" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:sqlserver://172.30.4.100:1433;databaseName=DCO"/>
+            <property name="javax.persistence.jdbc.user" value="dev"/>
+            <property name="javax.persistence.jdbc.password" value="dev"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.SQLServerDialect"/>
+            <property name="hibernate.show_sql" value="false" />
+            <property name="hibernate.format_sql" value="false" />
+        </properties>
+        -->
+
+        <!-- live -->
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:sqlserver://172.31.4.100:1433;databaseName=DCO"/>
@@ -13,6 +26,7 @@
             <property name="hibernate.show_sql" value="false" />
             <property name="hibernate.format_sql" value="false" />
         </properties>
+        
 
     </persistence-unit>
   

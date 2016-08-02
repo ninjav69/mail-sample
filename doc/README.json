@@ -1,0 +1,11 @@
+Send Proposal Feature:
+----------------------
+
+In the directory of this README are 3 files:
+
+- pegasus-send-proposal.png: screenshot of the user interface just before sending.
+- request.json: The actual request sent to the DCPortal REST endpoint
+- response.json: The response from the REST endpoint.
+
+
+

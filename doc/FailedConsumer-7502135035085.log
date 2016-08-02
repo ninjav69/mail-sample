@@ -1,0 +1,203 @@
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+Get Details for the persisted proposal record... PayPlanProposalPersistId = 22481
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = obligation ----  ConsumerEmailAddressnull
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = obligation ----  ConsumerEmailAddressnull
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = obligation ----  ConsumerEmailAddressnull
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = obligation ----  ConsumerEmailAddressnull
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = obligation ----  ConsumerEmailAddressnull
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = obligation ----  ConsumerEmailAddressnull
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = obligation ----  ConsumerEmailAddressnull
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = obligation ----  ConsumerEmailAddressnull
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = obligation ----  ConsumerEmailAddressnull
+
+2016-07-20 15:52:31,565 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+ Type = client ----  ConsumerEmailAddressbelindaduplessis975@gmail.com
+
+2016-07-20 15:52:31,581 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12037 
+GET /op/ProposalHistoryDetailsLoad/22481?_1469022751539 took 63ms and returned 200
+
+2016-07-20 15:52:41,737 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12035 
+GET /op/ProposalHistoryDetailsView/183384/22022?_1469022761611 took 0ms and returned 200
+
+2016-07-20 15:52:41,878 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12035 
+Get Details for the persisted proposal record... PayPlanProposalPersistId = 22022
+
+2016-07-20 15:52:41,878 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12035 
+ Type = client ----  ConsumerEmailAddressbelindaduplessis975@gmail.com
+
+2016-07-20 15:52:41,893 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12029 
+GET /op/ProposalHistoryDetailsLoad/22022?_1469022761866 took 31ms and returned 200
+
+2016-07-20 15:53:41,535 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+********************* PayPlanProposalPersistId = 22481
+
+2016-07-20 15:53:41,535 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+################################# DCRS = 0 stageId 0
+
+2016-07-20 15:53:41,722 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+ ************* deductionId = 1123544 ********** sendMail true manuallyUpdated false
+
+2016-07-20 15:53:41,738 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+ ************* deductionId = 1124059 ********** sendMail true manuallyUpdated false
+
+2016-07-20 15:53:41,738 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+ ************* deductionId = 1112278 ********** sendMail true manuallyUpdated false
+
+2016-07-20 15:53:41,738 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+ ************* deductionId = 1106908 ********** sendMail true manuallyUpdated false
+
+2016-07-20 15:53:41,753 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+ ************* deductionId = 1110103 ********** sendMail true manuallyUpdated false
+
+2016-07-20 15:53:41,753 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+ ************* deductionId = 1106905 ********** sendMail true manuallyUpdated false
+
+2016-07-20 15:53:41,753 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+ ************* deductionId = 1123543 ********** sendMail true manuallyUpdated false
+
+2016-07-20 15:53:41,753 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+ ************* deductionId = 1106907 ********** sendMail true manuallyUpdated false
+
+2016-07-20 15:53:41,769 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+ ************* deductionId = 1106909 ********** sendMail true manuallyUpdated false
+
+2016-07-20 15:53:41,785 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+senderRowan Breeds on behalf of Debt Solutions 4 U <info@rgmconsulting.co.za>
+
+2016-07-20 15:53:41,785 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+fromaddress = Rowan Breeds on behalf of Debt Solutions 4 U <info@rgmconsulting.co.za> subject = Debt Counselling update: Your Initial Debt Repayment Plan has been submitted to your creditors bodytext = <font style='font-family: "Droid Sans"'>Dear Johannes Petrus du Plessis,<br><br>Your Initial Debt Repayment Plan has been submitted to your credit providers.<br>Please find the plan attached for your records.<br>We will update you on the outcome of the negotiations with your credit providers.<br>Remember to continue paying your reduced, provisional payment into the NPDA bank account.<br><br>Kind Regards,<br>Debt Solutions 4 U<br><br><i><b>DCM Communicator:</b> This email has been sent by the DCM Group. DCM partners with the leading, independent Debt<br>Counsellors in South Africa.  Your Debt Counsellor uses the <u>National Payment Distribution Agency</u> (NPDA), an NCR<br>accredited, payment distribution agency, responsible for ensuring efficient, reliable, and secure distribution of debt<br>repayments from consumers to credit providers The NPDA is part of the DCM Group.<br>For queries regarding your payments call DCM on <b>0861 628 628.</b></i></font>
+
+2016-07-20 15:53:41,785 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+Looking up service...
+
+2016-07-20 15:53:41,785 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+Loading report...
+
+2016-07-20 15:53:41,972 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+Getting binary data...
+
+2016-07-20 15:53:43,441 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+RESPONSE &&&&&&& SUCCESSFUL
+
+2016-07-20 15:53:43,472 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+senderRowan Breeds on behalf of Debt Solutions 4 U <info@rgmconsulting.co.za>
+
+2016-07-20 15:53:43,472 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+fromaddress = Rowan Breeds on behalf of Debt Solutions 4 U <info@rgmconsulting.co.za> subject = Proposal for 7502135035085 Johannes Petrus du Plessis (NCRDC2423) bodytext = <font style='font-family: "Droid Sans"'>Please find attached the relevant Proposal document.<br>Kindly respond to this Proposal within five (5) working days.<br>If we do not receive a response we will deem the attached Proposal to be acceptable.<br><br>Kind Regards,<br>Debt Solutions 4 U (NCRDC2423)<br>Rowan Breeds<br>012 664 1945<br><br><b>File attached: <b>Proposal_7502135035085.pdf.</font>
+
+2016-07-20 15:53:43,472 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+Looking up service...
+
+2016-07-20 15:53:43,472 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+Loading report...
+
+2016-07-20 15:53:43,691 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+Getting binary data...
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+RESPONSE &&&&&&& SUCCESSFUL
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119008 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1B-E10FA354BAF8 EmailAddressSentTo = Pieter@steenkampatt.co.za
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119009 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1B-E10FA354BAF8 EmailAddressSentTo = proposal@consumerfriend.co.za
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119006 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1B-E10FA354BAF8 EmailAddressSentTo = proposals@edcon.co.za
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119003 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1B-E10FA354BAF8 EmailAddressSentTo = 
+
+2016-07-20 15:53:45,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119005 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1B-E10FA354BAF8 EmailAddressSentTo = isidingo@loantech.net 
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119001 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1:
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119001 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1B-E10FA354BAF8 EmailAddressSentTo = legal@lewisgroup.co.za
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119007 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1B-E10FA354BAF8 EmailAddressSentTo = legal@lewisgroup.co.za
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119002 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1B-E10FA354BAF8 EmailAddressSentTo = debtreview@shoprite.co.za
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+sp_UpdateObligationInfoAfterProposalSent - id = 119004 EmailSentBySystem = true  EmailSentBy = EB84B80C-B68D-4B30-BE1B-E10FA354BAF8 EmailAddressSentTo = proposal@mfc.co.za
+
+2016-07-20 15:53:45,222 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+---------------------------------------------------------------------------------------------------------------------
+
+2016-07-20 15:53:45,254 - [DEBUG] - from application in play-akka.actor.default-dispatcher-12036 
+
+
